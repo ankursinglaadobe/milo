@@ -124,6 +124,7 @@
   order: 1;
   opacity: .3;
   transition: opacity 0.5s ease-in-out;
+  height: 500px;
 }
 
 .none .carousel-slide {
