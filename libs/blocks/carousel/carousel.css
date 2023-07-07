@@ -112,6 +112,7 @@
   margin-bottom: 1rem;
   scroll-snap-type: x mandatory;
   will-change: transform;
+  height: 500px;
 }
 
 .carousel-slides.is-reversing {
